@@ -1,0 +1,15 @@
+{
+  "name": "williamsilva/projectTest",
+  "description": "application test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "William Silva",
+      "email": "williamsilva808@hotmail.com"
+    }
+  ],
+  "require": {
+    "slim/slim": "3.0.0-RC1"
+  }
+}
